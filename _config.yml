@@ -1,9 +1,9 @@
 # main text of home
 name: Susan Zhao
-bio: MechE undergrad
+bio: Mechanical Engineer / Computer Scientist 
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -37,7 +37,7 @@ disqus:
 linkedin: mylinkedin
 github: susan-z
 email: suzhao@seas.upenn.edu
-# facebook: myfacebook
+facebook: susan.zhao.okay
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
