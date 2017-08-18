@@ -2,11 +2,9 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image](http://www.med.upenn.edu/rehabilitation-robotics-lab/assets/user-content/Susan_Zhao.JPG)
 
-<p>Hi</p>
-
-<p>This is me</p>
+<p>I hope this works </p>
 
 <h2>Skills</h2>
 
