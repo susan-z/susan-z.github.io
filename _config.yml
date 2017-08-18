@@ -13,7 +13,7 @@ picture: https://lh6.googleusercontent.com/Wtsmi1P8v5LJEW6O09L_0sPFbanT7oR73_wc_
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
+resume-external: false
 resume-url: https://susan-z.github.io/resume
 
 url: https://susan-z.github.io
