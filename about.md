@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image](http://www.med.upenn.edu/rehabilitation-robotics-lab/assets/user-content/Susan_Zhao.JPG = 250x)
+<img src="http://www.med.upenn.edu/rehabilitation-robotics-lab/assets/user-content/Susan_Zhao.JPG" width="200">
 
 <p>I hope this works </p>
 
