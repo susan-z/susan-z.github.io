@@ -1,8 +1,9 @@
 ---
 title: Projects
+layout: page
 ---
 Projects
-
+<head>
 <style>
 
 .overlay {
@@ -32,6 +33,7 @@ Projects
   -ms-transform: translate(-50%, -50%);
 }
 </style>
+</head>
 
 <div class="img_row">
 	<body>
