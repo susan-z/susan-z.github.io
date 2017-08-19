@@ -2,14 +2,8 @@
 title: Projects
 ---
 Projects
-<head>
-<style>
 
-.image {
-  display: block;
-  width: 100%;
-  height: auto;
-}
+<style>
 
 .overlay {
   position: absolute;
@@ -38,15 +32,14 @@ Projects
   -ms-transform: translate(-50%, -50%);
 }
 </style>
-</head>
-
-<body>
 
 <div class="img_row">
+	<body>
 	<img class="col one" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
 	<div class="overlay">
     	<div class="text">This is a project</div>
   	</div>
+	</body>
 	<img class="col one" src="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/58/6c/a7/586ca79c-7f7f-1bd6-d24a-b44e0f6f2de5/source/256x256bb.jpg" alt="" title="example image"/>
 	<img class="col one" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
 </div>
@@ -57,4 +50,4 @@ Projects
 	<img class="col two" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
 </div>
 
-</body>
+
