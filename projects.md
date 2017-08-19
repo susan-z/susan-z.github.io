@@ -9,7 +9,7 @@ layout: page
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 * {
-    margin: 0px auto;
+    box-sizing: border-box;
 }
 
 .row::after {
@@ -23,7 +23,7 @@ layout: page
     padding: 10px;
 }
 
-.col-4 {width: 33.33%;}
+.col-4 {width: 25%;}
 
 .container {
   position: relative;
