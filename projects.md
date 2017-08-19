@@ -1,3 +1,5 @@
+showHeader = false
+
 ---
 title: Projects
 ---
