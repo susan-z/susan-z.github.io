@@ -1,5 +1,3 @@
-showHeader = false
-
 ---
 title: Projects
 ---
