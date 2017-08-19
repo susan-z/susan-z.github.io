@@ -18,8 +18,8 @@ layout: page
 }
 
 [class*="col-"] {
-    float: left;
-    padding: 10px;
+    float: right;
+    padding: 0px;
 }
 
 .col-4 {width: 33.33%;}
