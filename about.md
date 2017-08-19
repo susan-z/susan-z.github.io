@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-<img class="col one right" src="http://www.med.upenn.edu/rehabilitation-robotics-lab/assets/user-content/Susan_Zhao.JPG" width: "150">
+<img class="col one right" src="http://www.med.upenn.edu/rehabilitation-robotics-lab/assets/user-content/Susan_Zhao.JPG" width= "150">
 
 Hello! I am currently a Junior studying mechanical engineering with a minor in computer science at the University of Pennsylvania. My hometown is Edison, NJ -a place that is rich in cultures and is the perfect midpoint between NYC and Philadelphia. I've grown up with a love for volleyball, doodling, pilates, horror movies and trying out new restaurants. TESt
 
