@@ -19,7 +19,7 @@ layout: page
 
 [class*="col-"] {
     float: left;
-    padding: 15px;
+    padding: 10px;
 }
 
 .col-4 {width: 33.33%;}
@@ -65,6 +65,33 @@ layout: page
 </style>
 </head>
 <body>
+
+<div class="row">
+  <div class="col-4">
+  <div class="container">
+  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
+  		<div class="overlay">
+    		<div class="text">This is a project</div>
+  		</div>
+	</div>
+</div>
+  <div class="col-4">
+  <div class="container">
+  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
+    		<div class="overlay">
+    		<div class="text">This is a project</div>
+  		</div>
+	</div>
+</div>
+  <div class="col-4">
+  <div class="container">
+  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
+    		<div class="overlay">
+    		<div class="text">This is a project</div>
+  		</div>
+	</div>
+</div>
+</div>
 
 <div class="row">
   <div class="col-4">
