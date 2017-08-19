@@ -5,9 +5,28 @@ layout: page
 # Projects
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
+* {
+    box-sizing: border-box;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+
+.col-4 {width: 33.33%;}
+
 .container {
   position: relative;
+  width: 80%
 }
 
 .image {
@@ -23,7 +42,7 @@ layout: page
   left: 0;
   right: 0;
   height: 100%;
-  width: 100%;
+  width: 80%;
   opacity: 0;
   transition: .5s ease;
   background-color: #4B0082;
@@ -42,51 +61,36 @@ layout: page
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
+
 </style>
 </head>
 <body>
 
-<div class = "img_row">
-	<div class="container">
-		<img class="col one" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-		<div class="overlay">
+<div class="row">
+  <div class="col-4">
+  <div class="container">
+  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
+  		<div class="overlay">
     		<div class="text">This is a project</div>
   		</div>
 	</div>
 </div>
-<div class = "img_row">
-	<div class="container">
-	<img class="col one" src="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/58/6c/a7/586ca79c-7f7f-1bd6-d24a-b44e0f6f2de5/source/256x256bb.jpg" alt="" title="example image"/>
-		<div class="overlay">
+  <div class="col-4">
+  <div class="container">
+  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
+    		<div class="overlay">
     		<div class="text">This is a project</div>
   		</div>
 	</div>
 </div>
-<div class = "img_row">
-	<div class="container">
-	<img class="col one" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-		<div class="overlay">
+  <div class="col-4">
+  <div class="container">
+  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
+    		<div class="overlay">
     		<div class="text">This is a project</div>
   		</div>
 	</div>
 </div>
-
-<div class="img_row">
-	<img class="col two" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-	<img class="col two" src="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/58/6c/a7/586ca79c-7f7f-1bd6-d24a-b44e0f6f2de5/source/256x256bb.jpg" alt="" title="example image"/>
-	<img class="col two" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-</div>
-
-<div class="one-third column alpha">
-  <img class ="col three" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-</div>
-
-<div class="one-third column">
-  <img class ="col three" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-</div>
-
-<div class="one-third column omega">
-  <img class ="col three" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
 </div>
 
 </body>
