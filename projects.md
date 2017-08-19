@@ -2,7 +2,8 @@
 title: Projects
 layout: page
 ---
-Projects
+<p><font face="verdana" color="black">Projects</font></p>
+
 <head>
 <style>
 
