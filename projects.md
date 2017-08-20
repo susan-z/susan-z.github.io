@@ -23,11 +23,13 @@ layout: page
     padding: 15px;
 }
 
-.col-4 {width: 33.33%;}
+.col-4 {
+width: 33.33%;
+}
 
 .container {
   position: relative;
-  width: 80%
+  width: 100%
 }
 
 .image {
@@ -43,10 +45,10 @@ layout: page
   left: 0;
   right: 0;
   height: 100%;
-  width: 80%;
+  width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #4B0082;
+  background-color: #008CBA;
 }
 
 .container:hover .overlay {
@@ -62,55 +64,43 @@ layout: page
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
-
 </style>
 </head>
 <body>
 
-<div class="row">
-  <div class="container">
-  <img class="col-4" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-  		<div class="overlay">
-    		<div class="text">This is a project</div>
-  		</div>
-	
-</div>
-  <div class="container">
-  <img class="col-4" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-    		<div class="overlay">
-    		<div class="text">This is a project</div>
-  		</div>
-</div>
-  <div class="container">
-  <img class="col-4" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-    		<div class="overlay">
-    		<div class="text">This is a project</div>
-  		</div>
-</div>
-</div>
+<div class="rows">
 
-<div class="row">
-  <div class="container">
-  <img class="col-4" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-  		<div class="overlay">
+<div class="col-4">
+<div class="container">
+  <img class="image" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg">
+  <div class="overlay">
     		<div class="text">This is a project</div>
   		</div>
-</div>
-  <div class="container">
-  <img class="col-4" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-    		<div class="overlay">
-    		<div class="text">This is a project</div>
-  		</div>
-</div>
-  <div class="container">
-  <img class="col-4" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg" alt="" title="example image"/>
-    		<div class="overlay">
-    		<div class="text">This is a project</div>
-  		</div>
-</div>
-</div>
+  </div>
+  </div>
 
+<div class="col-4">
+<div class="container">
+  <img class="image" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg">
+    <div class="overlay">
+    		<div class="text">This is a project</div>
+  		</div>
+  </div>
+  </div>
+
+<div class="col-4">
+<div class="container">
+  <img class="image" src="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/27/f1/66/27f16680-aa08-b81a-8a4b-6648cfbc5dc9/source/256x256bb.jpg">
+    <div class="overlay">
+    		<div class="text">This is a project</div>
+  		</div>
+  </div>
+  </div>
+</div>
 </body>
 </html>
+
+
+
 
 
