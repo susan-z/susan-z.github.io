@@ -6,7 +6,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawkspic1%20Cropped.jpg?raw=true" alt="Alt Text" style="width: 50%; height: 50%">
+        <img class="image" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/robotheader.jpg?raw=true">
     </div>
 
     <div class="toright">
@@ -14,4 +14,4 @@ layout: page
     </div>
 </div>
 
-![https://github.com/susan-z/susan-z.github.io/blob/master/img/robotheader.jpg?raw=true]
+![]
