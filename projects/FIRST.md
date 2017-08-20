@@ -14,14 +14,16 @@ layout: page
     </div>
 </div>
 
+<p> hello this is a check </p>
+
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawkspic1%20Cropped.jpg?raw=true">
-        
-<figcaption class="caption">Aerial Assist 2014 Competition robot</figcaption>
+    <p>Some words to verify</p>   
     </div>
 
     <div class="toright">
+    <img class="image" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawkspic1%20Cropped.jpg?raw=true">     
+    <figcaption class="caption">Aerial Assist 2014 Competition robot</figcaption>
     <img class="image" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/recyclerush.JPG?raw=true">
         <figcaption class="caption">Recycle Rush 2015 Competition robot</figcaption>
     </div>
