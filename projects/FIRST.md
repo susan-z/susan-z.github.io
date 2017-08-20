@@ -4,16 +4,14 @@ layout: page
 ---
 # FIRST Robotics
 
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawkspic1%20Cropped.jpg?raw=true" alt="Alt Text">
+    </div>
 
-<image src="https://github.com/susan-z/susan-z.github.io/blob/master/img/robotheader.jpg?raw=true" width="60%" height="20%"></image>
+    <div class="toright">
+        <p>THIS IS ME TYPING STUFF so thath i may finally see something working for once and that will make me happy and possibly break down in tears because this has to work right? and is his name really john doe that would be really weird and stupid and sounds really fake idk if people will think i stole this from soemone</p>
+    </div>
+</div>
 
-
-<img class="col one right" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawkspic1%20Cropped.jpg?raw=true">
-
-<br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
-
-<br/>
+![]{https://github.com/susan-z/susan-z.github.io/blob/master/img/robotheader.jpg?raw=true}
