@@ -14,11 +14,11 @@ layout: page
     </div>
 </div>
 
-[https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawksicon.png?raw=true]
+![](https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawksicon.png?raw=true)
 <figcaption class="caption">Team 2554 icon</figcaption>
 
-[https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawkspic1%20Cropped.jpg?raw=true]
+![](https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawkspic1%20Cropped.jpg?raw=true)
 <figcaption class="caption">Aerial Assist 2014 Competition robot</figcaption>
 
-[https://github.com/susan-z/susan-z.github.io/blob/master/img/recyclerush.JPG?raw=true]
+![](https://github.com/susan-z/susan-z.github.io/blob/master/img/recyclerush.JPG?raw=true)
 <figcaption class="caption">Recycle Rush 2015 Competition robot</figcaption>
