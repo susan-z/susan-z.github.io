@@ -28,7 +28,7 @@ layout: page
     </div>
 
     <div class="toright">
-        <img class="image" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/recyclerush.JPG?raw=true" width="25%">
+        <img class="image" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/recyclerush.JPG?raw=true" height="100%">
         <figcaption class="caption">Recycle Rush 2015 Competition robot</figcaption>
     </div>
 </div>
