@@ -22,7 +22,7 @@ layout: page
     </div>
 
     <div class="toright">
-<img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawkspic1%20Cropped.jpg?raw=true" width="250"/> <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/recyclerush.JPG?raw=true" width="250"/><figcaption class="caption">Aerial Assist 2014 (left) and Recycle Rush 2015 (2015) Competition robot </figcaption>
+<img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/warhawkspic1%20Cropped.jpg?raw=true" width="200"/> <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/recyclerush.JPG?raw=true" width="200"/><figcaption class="caption">Aerial Assist 2014 (left) and Recycle Rush 2015 (2015) Competition robot </figcaption>
 </div>
 </div>
 
