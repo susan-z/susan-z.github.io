@@ -1,10 +1,12 @@
 ---
-title: ESE190
+title: ESE
 layout: page
 ---
 
-# Silicon Garage
+# Electrical Circuits and Systems
+## ESE215
 
+## ESE190
 ESE190: Silicon Garage is a hands-on lab course about open source hardware and software platforms.  It explores Aruino and Raspberry Pi platforms as well as using the programming language, Processing, to interface the microcontrollers to sensors.
 
 This course allowed me to become very comfortable using Arduino alongside sensors and various hardware components, and familiarized me with Raspberry Pi. Mini-projects that preceded the final pair project concerned many electrical parts: LEDs, pushbuttons, photocells, transistors (MOSFET), bluetooth and wifi modules, and OpAmps for filtering signals. 
