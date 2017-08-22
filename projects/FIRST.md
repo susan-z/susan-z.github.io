@@ -10,15 +10,21 @@ layout: page
     </div>
 
     <div class="toright">
-        <p>THIS IS ME TYPING STUFF so thath i may finally see something working for once and that will make me happy and possibly break down in tears because this has to work right? and is his name really john doe that would be really weird and stupid and sounds really fake idk if people will think i stole this from soemone</p>
+        <p>FIRST Robotics Competition (FRC) is an international high school robotics competition. Each year, teams of high school students, coaches, and mentors work during a six-week period to build game-playing robots 
+        Team 2554, the War Hawks, is John P. Stevens High School’s FIRST Robotics team. All FIRST participants seek to inspire new generations to explore the wonders of science and technology.
+Every year, high school students have 6 weeks to design and build a robot that can complete the challenge and compete with teams from across the nation. Through the guidance and leadership of our captains and mentors, students are able to acquire the knowledge necessary and develop a powerful interest in STEM careers.
+Our team is divided into six separate sub-teams: Mechanical, Electrical, Programming, CAD, Marketing, and Safety. Although each individual group specializes in their field, all of the sub-teams come together to create a well-functioning robot for the competition.</p>
     </div>
 </div>
 
-<p> hello this is a check </p>
+WORDS! 
 
 <div class="side-by-side">
     <div class="toleft">
-    <p>Some words to verify HEY CAN YOU SEE WHAT IM TYPING IM TRYIGN TO WRITE SOME ADS;FJAS;LKFJAS;LKF SHIT DOWN SO THAT IT TAKES UP SPACE AND I CAN SEE HOW THE PARAGRAPH WILL SHOW ITSELF ME TYPING STUFF so thath i may finally see something working for once and that will make me happy and possibly break down in tears because this has to work right? and is his name really john doe that would be really weird and stupid and sounds really fake idk if people will think i stole this from soemon</p>   
+    Can I do this
+    *and
+    *make
+    *a list
     </div>
 
     <div class="toright">
