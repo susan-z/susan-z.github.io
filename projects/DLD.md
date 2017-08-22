@@ -20,8 +20,8 @@ Memory Game Circuit           |  LED Roulette Wheel Circuit
 :-------------------------:|:-------------------------:
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/dld1%20Cropped.png?raw=true)  |  ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/dld2%20Cropped.png?raw=true)
 
-Depending on where the player stopped the LED roulette, a servo motor would be activated and unlatch a door containing the candy identified on the roulette wheel. The MDF panels were designed using AutoCAD and then lasercut to be pressfit together. 
+Depending on where the player stopped the LED roulette, a servo motor would be activated and unlatch a door containing the candy identified on the roulette wheel. The MDF panels were designed using AutoCAD and then lasercut to be pressfit together. The final project was presented with an oral presentation and gallery demonstration. 
 
-Complete Project
+Complete Project         |  
 :-------------------------:|:-------------------------:
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/dld3.png?raw=true)  |  ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/dld4%20Cropped.png?raw=true)
