@@ -14,16 +14,18 @@ layout: page
     </div>
 </div>
 
-This was my first experience with robotics. 
-design components such as drive chains, the chassis, and shooters. prototype and the physical construction of the robot. Students in this sub-team build the skeletal structure of the robot, and efficiently arrange the motors, electronics, and various mechanisms onto the robot.The Marketing team is in charge of all the behind-the-scenes work: every year they must carry out fundraisers, acquire sponsorship and grants to meet the yearly $10,000 budget needed for a successful season. They also market the team, reach out to the community, and make robotics stand out in our community.By utilizing Autodesk Inventor, students are able to assemble various extrusions, motors, and other parts. Once assembly is completed, the program allows the user to perform a drive function that demonstrates all the parts working together. 
+This was my first exposure to robotics. Upon joining, I became a part of the design team, utilizing Autodesk Inventor to assemble the chassis, motors, drive chains, shooters, and electrical components of the robot. Once a drive function verified the parts worked together, the design team worked alongside the mechanical sub-team to complete the physical construction. The following year I became the Admin president of the team, thus being responsible for a team of over 80 members and the marketing sector of the team. We were able to meet the $10,000 budget needed for the season through fundraising and sponsorships. 
 
 <div class="side-by-side">
     <div class="toleft">
     <h2>Skills developed</h2>
         <ul>
-            <li>AutoCAD</li>
-            <li>sd</li>
-            <li>Marketing, gaining sponsors</li>
+        <li>Design, Prototyping, testing and build of a project</li>
+        <li>Understanding of robot subsystems</li>
+        <li>AutoCAD</li>
+        <li>Leading a team: Communication, scheduling, maintaining records</li>
+        <li>Marketing: Fundraising, acquiring sponsorships, maintaining a budget</li>
+        <li>Community Outreach and Publicity</li>
         </ul>
     </div>
     <div class="toright">
