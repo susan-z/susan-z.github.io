@@ -19,6 +19,7 @@ This project required the initial design of the filter, amplifier, and power sup
 |---------|:---------:|---------:|
 | Bass Filter | Treble Filter | Amplifier |
 
+For complete documentation of this project: [Final Project](https://github.com/susan-z/susan-z.github.io/blob/master/projects/FinalProj_ElizatuSuzhao.pdf)
 Additional lab circuit drawings can be found on [Circuitlab](https://www.circuitlab.com/user/susan_z/)
 
 ## ESE190
