@@ -6,11 +6,18 @@ layout: page
 <br>
 <br>
 <br>
-test
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 Please have a look around my website, and feel free to contact me via <a href="https://github.com/">LinkedIn</a> or by <a href="https://github.com/">email</a>. 
-<br>
-<br>
-<h2>Experience: Projectstest</h2>
+
+<h2>Experience: Projectstest2</h2>
 
 <ul class="skill-list">
 	<li>Digital Electronics for the Inventor: <a href="https://susan-z.github.io/projects/DLD/">DLD</a></li>
