@@ -5,25 +5,14 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         Hello! I am currently a Junior studying mechanical engineering with a minor in computer science at the University of Pennsylvania. My hometown is Edison, NJ -a place that is rich in cultures and is the perfect midpoint between NYC and Philadelphia. I've grown up with a love for volleyball, doodling, pilates, horror movies and trying out new restaurants.
+		<br>
+		Ever since entering college, I have not only connected with others with the same interests but found new ones along the way. I am part of UPenn's intramural volleyball team as well as their premiere bellydancing and drum troup and a proud member of Alpha Delta Pi. However I find my greatest source of inspiration from my fellow engineering classmates and teachers. I bolster my knowledge in mechanical engineering with computer science, electrical engineering, and bioengineering experience. By understanding differing fields as well as their overlaps, I am constantly being exposed to new and developing ideas. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects. 
     </div>
 
     <div class="toright">
         <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/Susan_Zhao1.jpg?raw=true">
     </div>
 </div>
-
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="https://koppl.in/indigo/assets/images/profile.jpg" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-
-    <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-</div>
-
-Ever since entering college, I have not only connected with others with the same interests but found new ones along the way. I am part of UPenn's intramural volleyball team as well as their premiere bellydancing and drum troup and a proud member of Alpha Delta Pi. However I find my greatest source of inspiration from my fellow engineering classmates and teachers. I bolster my knowledge in mechanical engineering with computer science, electrical engineering, and bioengineering experience. By understanding differing fields as well as their overlaps, I am constantly being exposed to new and developing ideas. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects. 
 
 Please have a look around my website, and feel free to contact me via <a href="https://github.com/">LinkedIn</a> or by <a href="https://github.com/">email</a>. 
 
