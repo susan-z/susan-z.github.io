@@ -17,8 +17,6 @@ layout: page
 <br>
 <br>
 <br>
-<br>
-<br>
 and bioengineering experience. By understanding differing fields as well as their overlaps, I am constantly being exposed to new and developing ideas. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects.
 
 Please have a look around my website, and feel free to contact me via <a href="https://github.com/">LinkedIn</a> or by <a href="https://github.com/">email</a>. 
