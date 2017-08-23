@@ -17,6 +17,7 @@ layout: page
 <br>
 <br>
 <br>
+<br>
 Please have a look around my website, and feel free to contact me via <a href="https://github.com/">LinkedIn</a> or by <a href="https://github.com/">email</a>. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects.
 
 <h2>Experience: Projectstest2</h2>
