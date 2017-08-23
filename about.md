@@ -2,8 +2,15 @@
 title: About
 layout: page
 ---
-<p><img align ="right" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/Susan_Zhao1.jpg?raw=true" > 
-Hello! I am currently a Junior studying mechanical engineering with a minor in computer science at the University of Pennsylvania. My hometown is Edison, NJ -a place that is rich in cultures and is the perfect midpoint between NYC and Philadelphia. I've grown up with a love for volleyball, doodling, pilates, horror movies and trying out new restaurants. </p>
+<div class="side-by-side">
+    <div class="toleft">
+        <p> Hello! I am currently a Junior studying mechanical engineering with a minor in computer science at the University of Pennsylvania. My hometown is Edison, NJ -a place that is rich in cultures and is the perfect midpoint between NYC and Philadelphia. I've grown up with a love for volleyball, doodling, pilates, horror movies and trying out new restaurants. </p>
+    </div>
+
+    <div class="toright">
+        <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/Susan_Zhao1.jpg?raw=true">
+    </div>
+</div>
 
 Ever since entering college, I have not only connected with others with the same interests but found new ones along the way. I am part of UPenn's intramural volleyball team as well as their premiere bellydancing and drum troup and a proud member of Alpha Delta Pi. However I find my greatest source of inspiration from my fellow engineering classmates and teachers. I bolster my knowledge in mechanical engineering with computer science, electrical engineering, and bioengineering experience. By understanding differing fields as well as their overlaps, I am constantly being exposed to new and developing ideas. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects. 
 
