@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-<p style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;">Hello! I am currently a Junior studying mechanical engineering with a minor in computer science at the University of Pennsylvania. My hometown is Edison, NJ -a place that is rich in cultures and is the perfect midpoint between NYC and Philadelphia. I've grown up with a love for volleyball, doodling, pilates, horror movies and trying out new restaurants. </p><p style="float: right; font-size: 9pt; text-align: center; width: 29%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/Susan_Zhao1.jpg?raw=true" style="width: 100%"></p><p style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;">Ever since entering college, I have not only connected with others with the same interests but found new ones along the way. I am part of UPenn's intramural volleyball team as well as their premiere bellydancing and drum troup and a proud member of Alpha Delta Pi. However I find my greatest source of inspiration from my fellow engineering classmates and teachers. I bolster my knowledge in mechanical engineering with computer science, electrical engineering,</p>
+<p style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;">Hello! I am currently a Junior studying mechanical engineering with a minor in computer science at the University of Pennsylvania. My hometown is Edison, NJ -a place that is rich in cultures and is the perfect midpoint between NYC and Philadelphia. I've grown up with a love for volleyball, doodling, pilates, horror movies and trying out new restaurants. </p><p style="float: right; font-size: 9pt; text-align: center; width: 29%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/Susan_Zhao1.jpg?raw=true" style="width: 100%"></p><p style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;">Currently, I am part of UPenn's intramural volleyball team as well as their premiere bellydancing and drum troup and a proud member of Alpha Delta Pi. I bolster my knowledge in mechanical engineering with computer science, electrical engineering, and bioengineering experience. By understanding differing fields as well as their overlaps, I am constantly being exposed to new and developing ideas.</p>
 <br>
 <br>
 <br>
@@ -17,9 +17,7 @@ layout: page
 <br>
 <br>
 <br>
-and bioengineering experience. By understanding differing fields as well as their overlaps, I am constantly being exposed to new and developing ideas. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects.
-
-Please have a look around my website, and feel free to contact me via <a href="https://github.com/">LinkedIn</a> or by <a href="https://github.com/">email</a>. 
+Please have a look around my website, and feel free to contact me via <a href="https://github.com/">LinkedIn</a> or by <a href="https://github.com/">email</a>. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects.
 
 <h2>Experience: Projectstest2</h2>
 
