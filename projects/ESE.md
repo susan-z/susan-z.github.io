@@ -15,7 +15,7 @@ The final project was an audio docking station. There are three major components
 
 This project required the initial design of the filter, amplifier, and power supply, a working simulation of each component and the components integrated, and finally testing and reiteration of the components adjusted for differences from the simulation. 
 
-| ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/bass.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/treble.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/amp%20Cropped.png?raw=true){:height="500px" width="400px"}
+| ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/bass.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/treble.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/amp%20Cropped.png?raw=true){:height="400px" width="400px"}
 |---------|:---------:|---------:|
 | Bass Filter | Treble Filter | Amplifier |
 
