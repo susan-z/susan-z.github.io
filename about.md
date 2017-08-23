@@ -4,7 +4,7 @@ layout: page
 ---
 <div class="side-by-side">
     <div class="toleft">
-        <p> Hello! I am currently a Junior studying mechanical engineering with a minor in computer science at the University of Pennsylvania. My hometown is Edison, NJ -a place that is rich in cultures and is the perfect midpoint between NYC and Philadelphia. I've grown up with a love for volleyball, doodling, pilates, horror movies and trying out new restaurants. </p>
+        Hello! I am currently a Junior studying mechanical engineering with a minor in computer science at the University of Pennsylvania. My hometown is Edison, NJ -a place that is rich in cultures and is the perfect midpoint between NYC and Philadelphia. I've grown up with a love for volleyball, doodling, pilates, horror movies and trying out new restaurants.
     </div>
 
     <div class="toright">
