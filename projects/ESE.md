@@ -20,6 +20,7 @@ This project required the initial design of the filter, amplifier, and power sup
 | Bass Filter | Treble Filter | Amplifier |
 
 For complete documentation of this project: [Final Project](https://github.com/susan-z/susan-z.github.io/blob/master/projects/FinalProj_ElizatuSuzhao.pdf). Additional lab circuit drawings can be found on [Circuitlab](https://www.circuitlab.com/user/susan_z/)
+
 ---
 ## ESE190
 ESE190: Silicon Garage is a hands-on lab course about open source hardware and software platforms.  It explores Aruino and Raspberry Pi platforms as well as using the programming language, Processing, to interface the microcontrollers to sensors. Mini-projects that preceded the final pair project concerned many electrical parts: LEDs, pushbuttons, photocells, transistors (MOSFET), bluetooth and wifi modules, and OpAmps for filtering signals. 
