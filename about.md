@@ -12,6 +12,17 @@ layout: page
     </div>
 </div>
 
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://koppl.in/indigo/assets/images/profile.jpg" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+</div>
+
 Ever since entering college, I have not only connected with others with the same interests but found new ones along the way. I am part of UPenn's intramural volleyball team as well as their premiere bellydancing and drum troup and a proud member of Alpha Delta Pi. However I find my greatest source of inspiration from my fellow engineering classmates and teachers. I bolster my knowledge in mechanical engineering with computer science, electrical engineering, and bioengineering experience. By understanding differing fields as well as their overlaps, I am constantly being exposed to new and developing ideas. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects. 
 
 Please have a look around my website, and feel free to contact me via <a href="https://github.com/">LinkedIn</a> or by <a href="https://github.com/">email</a>. 
