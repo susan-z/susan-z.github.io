@@ -18,6 +18,10 @@ This hands-on, project-based course covers the fundamentals of the modern mechan
 <p>Animated Assembly of a CD Player</p>
 </center>
 
+|![](https://github.com/susan-z/susan-z.github.io/blob/master/img/playrender.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/tag.JPG?raw=true) |
+|:------------------------------:|:-------------:|
+| Render of PLAY project, Hungry Hungry Hippos-inspired soccer game | TAG project, to press-fit |
+
 ---
 ### MEAM 247/248: Design Lab
 These courses teach the principles of experimentation and measurement systems in concert with a number of mechanical design fundamentals. The fall semester follows closely with MEAM 210, doing experiments to explore the principles taught in statics and strength of materials, while the spring semester follows closely with MEAM 203 and MEAM 211 with hands-on design projects in thermodynamics and dynamics.
