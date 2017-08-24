@@ -34,12 +34,15 @@ Flowchart | CAD
 Raw Data (performed in Matlab) | Real World Frame  | Fitted Ellipse | Comparison in Age Group
 
 See complete [documentation](github.com) and [Matlab code](github.com)
+
 ---
 ### DNA functionalization of Colloidal Nano and Microparticles
 This was my first independent research project. This experience allowed me to comprehend the dedication and effort required to conduct research and understand a completely new concept to a deeper level.
+
 Skills acquired:
 * Researched a rising topic in its field: analyzed relevant information and wrote [documentation](https://github.com/susan-z/susan-z.github.io/blob/master/projects/Colloids.pdf)
 * Created protocols for the DNA functionalization of both [nanoparticles](https://github.com/susan-z/susan-z.github.io/blob/master/projects/Protocol_nanoparticle.pdf) and [microparticles](https://github.com/susan-z/susan-z.github.io/blob/master/projects/Protocol_microparticle.pdf)
+
 ---
 ### Genotyping Mouse lines
 <p align="center">
