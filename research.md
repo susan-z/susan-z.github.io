@@ -20,10 +20,10 @@ Completed Objectives:
 * Create visualizations to represent data, and a [presentation](https://github.com/susan-z/susan-z.github.io/blob/master/PANDAGym_LSAMP_SusanZhao.pdf) on discoveries
 
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/image5.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/image7%20Cropped.jpg?raw=true)
-![](https://github.com/susan-z/susan-z.github.io/blob/master/img/matelectronics.png?raw=true) | hello
-:-----------:|:-----------:
 :-----------:|:-----------:
 Mat Electronics Box closed view | Top view, opened
+![](https://github.com/susan-z/susan-z.github.io/blob/master/img/matelectronics.png?raw=true) | hello
+:-----------:|:-----------:
 Flowchart | CAD
 
 
