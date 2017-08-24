@@ -14,7 +14,7 @@ The manipulators on the Baxter robot (see below) are not appropriate for assisti
 
 | CAD model (Solidworks) | Complete Hands with Silicon rubber molding (Ecoflex) |
 |:------------------------------------------------:|:-------------------------------------------------------------:|
-| INSERT CAD | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baxterhands.jpg?raw=true)|
+| ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/BAXTERrh.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baxterhands.jpg?raw=true)|
 
 Experience:
 * This
