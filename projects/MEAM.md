@@ -43,13 +43,11 @@ Poisson’s ratio when testing two bars of the same stock but of different lengt
 |Torque and RPM relationship | CAD/Complete car (required to fit in a narrow tube) |
 
 ---
-
 | <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/space2.JPG?raw=true" width="430px"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/space3.JPG?raw=true" width="285px">| <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/space1.JPG?raw=true" width="285px"> | 
 |:-----------------------------------------------------------:|:-----------------------------:|
 | Lego technics system, low pass analog filter | Comparison of unfiltered and filtered signals, see digital filter [code](https://github.com/susan-z/susan-z.github.io/blob/master/projects/digitalfilter.m) |
 
 ---
-
 | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/heatengine.JPG?raw=true) | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/heatengine1.JPG?raw=true" width="290px"> | 
 |:--------------------------------------------:|:--------------------:|
 | Mechanism | P-V relationship |
