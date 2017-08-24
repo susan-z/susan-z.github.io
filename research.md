@@ -27,8 +27,13 @@ Mat Electronics Box closed view | Top view, opened
 :-----------:|:-----------:
 Flowchart | CAD
 
-![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_1.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_2.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_ellipse.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_toynotoy.png?raw=true)
+![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_1.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_2.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_ellipse%20Cropped.jpg?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_toynotoy.png?raw=true)
 :-----------:|:-----------:|:-----------:|:-----------:
 Raw Data (performed in Matlab) | Real World Frame  | Fitted Ellipse | Comparison in Age Group
 
-See complete documentation
+See complete [documentation](github.com) and [Matlab code](github.com)
+### DNA functionalization of Colloidal Nano and Microparticles
+
+
+### Genotyping of .. something
+![](https://github.com/susan-z/susan-z.github.io/blob/master/img/IMG_2108%20Cropped.jpg?raw=true)
