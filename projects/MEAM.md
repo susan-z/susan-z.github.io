@@ -48,6 +48,6 @@ Poisson’s ratio when testing two bars of the same stock but of different lengt
 | Lego technics system, low pass analog filter | Comparison of unfiltered and filtered signals, see digital filter [code](https://github.com/susan-z/susan-z.github.io/blob/master/projects/digitalfilter.m) |
 <br>
 
-| ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/heatengine.JPG?raw=true) | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/heatengine1.JPG?raw=true" width="250px"> | 
+| ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/heatengine.JPG?raw=true) | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/heatengine1.JPG?raw=true" width="280px"> | 
 |:--------------------------------------------:|:--------------------:|
 | Mechanism | P-V relationship |
