@@ -9,9 +9,9 @@ All projects are listed in reverse-chronological order
   <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/LSAMP.jpg?raw=true"/>
 </p>
 
-![](https://github.com/susan-z/susan-z.github.io/blob/master/img/babyingym.png?raw=true) | <p>This is an infant gym with sensors which assesses infants in their natural play environment. PANDA gym provides quantifiable metrics that can be used in place of current subjective analysis for early diagnosis of motor delays. My work details the pressure sensitive mat that gathers center of pressure (CoP) information of infant movement while they play in the gym in a supine position.</p>
-:-----------:|-----------
-Complete setup with infant | 
+| ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/babyingym.png?raw=true) | This is an infant gym with sensors which assesses infants in their natural play environment. PANDA gym provides quantifiable metrics that can be used in place of current subjective analysis for early diagnosis of motor delays. My work details the pressure sensitive mat that gathers center of pressure (CoP) information of infant movement while they play in the gym in a supine position. | 
+|:-----------:|-----------|
+Complete setup with infant |  |
 
 Completed Objectives:
 * Perform clinical trials at Children's Hospital of Philadelphia (CHOP) and collect data from 5 preterm infants
