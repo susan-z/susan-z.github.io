@@ -29,7 +29,7 @@ Poisson’s ratio when testing two bars of the same stock but of different lengt
 * Trusses: labeling tension, compression, and zero force members
 * Electronics: Robotic finger, nightlight
 
-| <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/FEA%20analysis.JPG?raw=true" width="29px"> | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/robotfinger.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/robofinger_top.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/nightlight.JPG?raw=true) |
+| <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/FEA%20analysis.JPG?raw=true" width="294px"> | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/robotfinger.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/robofinger_top.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/nightlight.JPG?raw=true) |
 |:------------------------------:|:------------------------------:|:------------------------------:|:------------------------------:|
 |FEA Analysis on Solidworks | Robofinger, applying force on load cell | Robofinger, top view | Nightlight, see [code](https://github.com/susan-z/susan-z.github.io/blob/master/projects/robofinger.ino)
 
@@ -40,7 +40,7 @@ Poisson’s ratio when testing two bars of the same stock but of different lengt
 
 | <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/derby2.JPG?raw=true" width="250px"> | <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/derby1.JPG?raw=true" width="430px"> | 
 |:--------------------------------------------:|:--------------------------------------------:|
-|Torque and RPM relationship | CAD/Complete car (required to fit in a narrow tube) |
+| Torque and RPM relationship                 | CAD/Complete car (required to fit in a narrow tube) |
 
 ---
 
