@@ -8,7 +8,9 @@ BAXTER is a robot created by Rethink Robotics to be a safe, flexible, affordable
 
 The manipulators on the Baxter robot (see below) are not appropriate for assisting human movements. I was tasked with designing a simple set of "hands" to allow Baxter to safely and effectively interact with a human patient.
 
-<img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/baxtergripper1.jpg?raw=true" style="width:200px"/><figcaption class="caption">Two commercially-available Baxter Grippers</figcaption><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/baxtergripper2.jpg?raw=true" style="width:200px"/>
+<center>
+<img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/baxtergripper1.jpg?raw=true" style="width:200px"/><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/baxtergripper2.jpg?raw=true" style="width:200px"/>
+</center>
 
 |INSERT CAD | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baxterhands.jpg?raw=true)|
 |:--------------------------------------------:|:-------------------------------------------------------------:|
