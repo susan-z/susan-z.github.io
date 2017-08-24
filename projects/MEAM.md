@@ -42,6 +42,6 @@ Poisson’s ratio when testing two bars of the same stock but of different lengt
 |:--------------------------------------------:|:--------------------------------------------:|
 |Torque and RPM relationship | CAD/Complete car (required to fit in a narrow tube) |
 
-| <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/space2.JPG?raw=true"><<img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/space3.JPG?raw=true">| ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/space1.JPG?raw=true) | 
+| <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/space2.JPG?raw=true" width="400px"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/space3.JPG?raw=true">| ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/space1.JPG?raw=true) | 
 |:-----------------------------------------------------------:|:-----------------------------:|
 | Lego technics system, low pass filter | Comparison of unfiltered and filtered signals, see [code]() |
