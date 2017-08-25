@@ -25,7 +25,7 @@ Completed Objectives:
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/image5.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/image7%20Cropped.jpg?raw=true)
 :-----------:|:-----------:
 Mat Electronics Box closed view | Top view, opened
-![](https://github.com/susan-z/susan-z.github.io/blob/master/img/matelectronics.png?raw=true) | INSERT CAD HERE
+![](https://github.com/susan-z/susan-z.github.io/blob/master/img/matelectronics.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/rehabbox.PNG?raw=true)
 :-----------:|:-----------:
 Flowchart | CAD
 
