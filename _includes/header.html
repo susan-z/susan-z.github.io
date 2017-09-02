@@ -2,6 +2,9 @@
    or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
 
+{% if page.title == "Blog"
+%}{% theme: jekyll-theme-minimal %}{% endif %}
+
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
