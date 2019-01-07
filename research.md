@@ -6,9 +6,9 @@ layout: page
 *All projects are listed in reverse-chronological order*
 ## Physical and NeuroDevelopment Assessment (PANDA) Gym
 <p align="center">
-  <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/LSAMP.jpg?raw=true"/><figcaption class="caption">https://diversity.seas.upenn.edu/summer-research-program/</figcaption>
+  <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/LSAMP.jpg?raw=true"/>
 </p>
-
+<figcaption class="caption">https://diversity.seas.upenn.edu/summer-research-program/</figcaption>
 <img style="float: right;" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/babyingym.png?raw=true" width="300px">
 This is an infant gym with sensors which assesses infants in their natural play environment. PANDA gym provides quantifiable metrics that can be used in place of current subjective analysis for early diagnosis of motor delays. My work details the pressure sensitive mat that gathers center of pressure (CoP) information of infant movement while they play in the gym in a supine position.  
 <br>
@@ -25,11 +25,6 @@ Completed Objectives:
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/image5.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/image7%20Cropped.jpg?raw=true)
 :-----------:|:-----------:
 Mat Electronics Box closed view | Top view, opened
-<!--
-![](https://github.com/susan-z/susan-z.github.io/blob/master/img/matelectronics.png?raw=true) | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/rehabbox.PNG?raw=true" width="380px">
-:-----------:|:-----------:
-Flowchart | CAD-->
-
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_1.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_2.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_ellipse%20Cropped.jpg?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_toynotoy.png?raw=true)
 :-----------:|:-----------:|:-----------:|:-----------:
 Raw Data (performed in Matlab) | Real World Frame  | Fitted Ellipse | Comparison in Age Group
@@ -52,3 +47,8 @@ Skills acquired:
 Skills acquired:
 * Genotyping: preparation of DNA, running PCR reactions and gel electrophoresis
 * Maintained a lab journal documenting all genotypes and target genes
+
+<!--
+![](https://github.com/susan-z/susan-z.github.io/blob/master/img/matelectronics.png?raw=true) | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/rehabbox.PNG?raw=true" width="380px">
+:-----------:|:-----------:
+Flowchart | CAD-->
