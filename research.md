@@ -7,18 +7,19 @@ layout: page
 ## Physical and NeuroDevelopment Assessment (PANDA) Gym
 <p align="center">
   <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/LSAMP.jpg?raw=true"/>
+  <figcaption>https://diversity.seas.upenn.edu/summer-research-program/</figcaption>
 </p>
-<figcaption class="caption">https://diversity.seas.upenn.edu/summer-research-program/</figcaption>
+
 <img style="float: right;" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/babyingym.png?raw=true" width="300px">
 This is an infant gym with sensors which assesses infants in their natural play environment. PANDA gym provides quantifiable metrics that can be used in place of current subjective analysis for early diagnosis of motor delays. My work details the pressure sensitive mat that gathers center of pressure (CoP) information of infant movement while they play in the gym in a supine position.  
 <br>
 <br>
 
 Completed Objectives:
-* Perform clinical trials at Children's Hospital of Philadelphia (CHOP) and collect data from 5 preterm infants
+* Perform clinical trials at Children's Hospital of Philadelphia (CHOP)
 * Identify relations of COP movement and Approximate Entropy to infant development
-* Create a more robust assembly for mat electronics
-* Evaluate and improve the performance of the system
+* Design and manufacture a robust casing and assembly for mat electronics
+* Evaluate and analyze data using Matlab
 * Create visualizations to represent data, a [poster](https://github.com/susan-z/susan-z.github.io/blob/master/PANDAGym_LSAMP_SusanZhao.pdf) and [presentation](https://github.com/susan-z/susan-z.github.io/blob/master/projects/PANDA%20Gym_v3novids.pptx) on discoveries
 <div class="breaker"></div>
 
@@ -43,7 +44,7 @@ Skills acquired:
 ---
 ### Genotyping Mouse lines
 <p align="center">
-  <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/IMG_2108%20Cropped.jpg?raw=true" style="width:400px"/><figcaption class="caption">Gel of one litter of pups</figcaption>
+  <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/IMG_2108%20Cropped.jpg?raw=true" style="width:400px"/><figcaption>Gel of one litter of pups</figcaption>
 </p>
 Skills acquired:
 * Genotyping: preparation of DNA, running PCR reactions and gel electrophoresis
