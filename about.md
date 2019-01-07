@@ -4,19 +4,18 @@ layout: page
 ---
 # About
 
-<!--<p style="float: right; width: 65%; margin-right: 1%; margin-bottom: 0.5em;">--->
-<p> Hello! I am currently a Senior studying mechanical engineering with a minor
+<p style="float: right; width: 65%; margin-right: 1%; margin-bottom: 0.5em;">Hello! I am currently a Senior studying mechanical engineering with a minor
 in computer science at the University of Pennsylvania. My hometown is Edison, NJ
  -a place that is rich in cultures and is the perfect midpoint between NYC and
  Philadelphia. I've grown up with a love for volleyball, doodling, pilates,
- horror movies and trying out new restaurants. </p><!--<p style="float: left; font-size: 9pt; text-align: center; width: 29%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/sf_me.jpg?raw=true" style="width: 100%"></p>-->
-<!--<p style="float: right; width: 65%; margin-right: 1%; margin-bottom: 0.5em;">-->
+ horror movies and trying out new restaurants. </p>
+ <p style="float: left; font-size: 9pt; text-align: center; width: 29%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/sf_me.jpg?raw=true" style="width: 100%"></p>
+<p style="float: right; width: 65%; margin-right: 1%; margin-bottom: 0.5em;">
 <p>Currently, I am part of UPenn's intramural volleyball team, Alpha Delta Pi,
 West Philly Swingers, and Yalla, a premiere bellydancing and drum troupe. I
 bolster my knowledge in mechanical engineering with computer science, electrical
  engineering, and bioengineering experience. With so much experience in
  multidisciplary projects, I am constantly being exposed to new and developing ideas.</p>
-<!--
 <br>
 <br>
 <br>
@@ -49,10 +48,10 @@ bolster my knowledge in mechanical engineering with computer science, electrical
 <h2>Experience: Projects</h2>
 
 <ul class="skill-list">
-	<li>MEAM Labs: <a href="https://susan-z.github.io/projects/MEAMLAB/">MEAMLAB</a></li>
-	<li>Mechanical Design and Analysis: <a href="https://susan-z.github.io/projects/MEAM101/">MEAMLAB</a></li>
-	<li>Electrical Circuits and Systems : <a href="https://susan-z.github.io/projects/ESE215/">ESE</a></li>
-	<li>Programming: <a href="https://susan-z.github.io/projects/CIS110/">CIS110</a></li>
+	<li><a href="https://susan-z.github.io/projects/MEAMLAB/">Mechatronics</a></li>
+	<li><a href="https://susan-z.github.io/projects/MEAM101/">Mechanical Design and Analysis</a></li>
+	<li><a href="https://susan-z.github.io/projects/ESE215/">Electrical Circuits and Systems</a></li>
+	<li><a href="https://susan-z.github.io/projects/CIS110/">Programming</a></li>
 </ul>
 
-<p>To see more of my projects, please see the <a href="https://susan-z.github.io/projects/">Projects</a> page where they are ordered in reverse chronological order.</p>-->
+<p>To see more of my projects, please see the <a href="https://susan-z.github.io/projects/">Projects</a> page where they are ordered in reverse chronological order.</p>
