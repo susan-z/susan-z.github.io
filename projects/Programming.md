@@ -1,6 +1,5 @@
 # Computer Programming
-<p>
-CIS110: Introduction to Computer Programming teaches the fundamentals of computer programming in Java, with emphasis on applications in science and engineering. Through taking this course, I learned about the broader field of computer science and algorithmic thinking, the fundamental approach that computer scientists take to solving problems.</p>
+Fundamentals of computer programming in Java, with emphasis on applications in science and engineering. Through taking this course, I learned about the broader field of computer science and algorithmic thinking, the fundamental approach that computer scientists take to solving problems.</p>
 
 ### Individual Project
 (See additional projects listed below)
