@@ -9,7 +9,6 @@ layout: page
 <p style="float: left; font-size: 9pt; text-align: center; width: 29%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/sf_me.jpg?raw=true" style="width: 100%"></p>
 
 <p style="float: right; width: 65%; margin-right: 1%; margin-bottom: 0.5em;"> Currently, I am part of UPenn's intramural volleyball team, Alpha Delta Pi, West Philly Swingers, and Yalla, a premiere bellydancing and drum troupe. I bolster my knowledge in mechanical engineering with computer science, electrical engineering, and bioengineering experience. With so much experience in multidisciplary projects, I am constantly being exposed to new and developing ideas.</p>
- <!--
 <br>
 <br>
 <br>
@@ -24,7 +23,7 @@ layout: page
 <br>
 <br>
 <br>
-<br>-->
+<br>
 <p>Please have a look around my website, and feel free to contact me via <a href="https://www.linkedin.com/in/susan-zhao-5a0211170/">LinkedIn</a> or by <a href="suzhao@seas.upenn.edu">email</a>. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects. Additionally, please see the <a href="https://susan-z.github.io/research/">Research</a> page, as I have completed several research projects throughout my undergraduate experience.</p>
 
 <h2>Skills</h2>
@@ -45,7 +44,7 @@ layout: page
 	<li><a href="https://susan-z.github.io/projects/MEAMLAB/">Mechatronics</a></li>
 	<li><a href="https://susan-z.github.io/projects/MEAM101/">Mechanical Design and Analysis</a></li>
 	<li><a href="https://susan-z.github.io/projects/ESE215/">Electrical Circuits and Systems</a></li>
-	<li><a href="https://susan-z.github.io/projects/CIS110/">Programming</a></li>
+	<li><a href="https://susan-z.github.io/projects/Programming/">Programming</a></li>
 </ul>
 
 <p>To see more of my projects, please see the <a href="https://susan-z.github.io/projects/">Projects</a> page where they are ordered in reverse chronological order.</p>
