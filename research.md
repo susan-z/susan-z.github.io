@@ -6,7 +6,7 @@ layout: page
 *All projects are listed in reverse-chronological order*
 ## Physical and NeuroDevelopment Assessment (PANDA) Gym
 <p align="center">
-  <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/LSAMP.jpg?raw=true"/>
+  <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/LSAMP.jpg?raw=true"/><figcaption class="caption">https://diversity.seas.upenn.edu/summer-research-program/</figcaption>
 </p>
 
 <img style="float: right;" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/babyingym.png?raw=true" width="300px">
@@ -16,7 +16,7 @@ This is an infant gym with sensors which assesses infants in their natural play 
 
 Completed Objectives:
 * Perform clinical trials at Children's Hospital of Philadelphia (CHOP) and collect data from 5 preterm infants
-* Identify relations of COP movement and Approximate Entropy to infant development 
+* Identify relations of COP movement and Approximate Entropy to infant development
 * Create a more robust assembly for mat electronics
 * Evaluate and improve the performance of the system
 * Create visualizations to represent data, a [poster](https://github.com/susan-z/susan-z.github.io/blob/master/PANDAGym_LSAMP_SusanZhao.pdf) and [presentation](https://github.com/susan-z/susan-z.github.io/blob/master/projects/PANDA%20Gym_v3novids.pptx) on discoveries
@@ -25,9 +25,10 @@ Completed Objectives:
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/image5.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/image7%20Cropped.jpg?raw=true)
 :-----------:|:-----------:
 Mat Electronics Box closed view | Top view, opened
+<!--
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/matelectronics.png?raw=true) | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/rehabbox.PNG?raw=true" width="380px">
 :-----------:|:-----------:
-Flowchart | CAD
+Flowchart | CAD-->
 
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_1.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_2.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_ellipse%20Cropped.jpg?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/baby18_toynotoy.png?raw=true)
 :-----------:|:-----------:|:-----------:|:-----------:
