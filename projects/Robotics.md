@@ -15,7 +15,7 @@ This course, MEAM520: Introduction to Robotics, culminated in a team project. We
 7. Update obstacles in C-space
 8. Repeat, starting with A* to reach next block
 
-  [![Lynx Arm Video](//github.com/susan-z/susan-z.github.io/blob/master/img/roboarmvideo.JPG)](//youtu.be/2dLq227PmDc "Lynx Stacking 5 Blocks")
+  [![Lynx Arm Video](//github.com/susan-z/susan-z.github.io/blob/master/img/roboarmvideo.JPG?raw=true)](//youtu.be/2dLq227PmDc "Lynx Stacking 5 Blocks")
 
 ### Main Concepts Learned
 * Path planning
