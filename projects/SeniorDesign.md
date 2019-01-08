@@ -4,9 +4,10 @@ layout: page
 ---
 # Senior Design
 
-This capstone design project course is intended for teams to design and test complex mechanical systems that address a societal or consumer need. Each project is approved by the instructor and a faculty advisor. Topics treated in the course include project planning, prototyping, patent and library searches, intellectual property, ethics, and technical writing and presentations.
+This capstone design project is intended for teams to design and test complex mechanical systems that address a societal or consumer need. Each project is approved by the instructor and a faculty advisor. The following is the first semester progress of my Mechanical Engineering and Applied Mechanics Senior Design project, FlipSide.
 
 # FlipSide: Pixelated Design Board
+
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/prototype1.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/prototype2.png?raw=true)
 :-----------:|:-----------:
 Prototype CAD, front view | Isometric view
@@ -19,3 +20,11 @@ Signage is an essential component to the marketing strategies, everyday operatio
 Prototype, front view | Top view
 
 Team FlipSide is comprised of Edward Devlin, Shirley Dong, Michael Gigante, Charles Hussey, Madeline McGovern, and Susan Zhao and is advised by Professor Mark Yim.
+
+### Experience
+* Project planning, budgeting
+* Prototyping: CAD, 3D printing and lasercutting
+* Design for manufacturing
+* Patent and library searches
+* Intellectual Property, ethics discussions
+* Technical writing and presentations
