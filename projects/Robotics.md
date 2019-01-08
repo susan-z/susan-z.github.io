@@ -16,6 +16,7 @@ This course, MEAM520: Introduction to Robotics, culminated in a team project. We
 8. Repeat, starting with A* to reach next block
 
   [![Lynx Arm Video](//github.com/susan-z/susan-z.github.io/blob/master/img/roboarmvideo.JPG?raw=true)](//youtu.be/2dLq227PmDc "Lynx Stacking 5 Blocks")
+  <figcaption>Click to access Youtube Video: Lynx Stacking 5 Blocks</figcaption>
 
 ### Main Concepts Learned
 * Path planning
