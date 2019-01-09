@@ -14,11 +14,23 @@ The objective was to design and build an RC robot to compete in a MOBA-inspired 
 * Frequency-sensing light detection
 * Servo-controlled attack arms
 * LED visual cues for health and attack
+
+<h2>Additional characteristics included</h2>
+
+<ul class="skill-list">
+	<li>Communication through UDP connected controllers</li>
+	<li>Frequency-sensing light detection</li>
+	<li>Matlab</li>
+	<li>Java</li>
+</ul>
+
 Left: Robot traversing the maze to reach the Nexus, lowering enemy health
 </p>
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 29%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/mechatronicsGif.gif?raw=true" style="width: 100%"></p>
 
+<br>
+<br>
 <br>
 <br>
 <br>
