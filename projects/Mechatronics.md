@@ -34,7 +34,6 @@ Left: Robot traversing the maze to reach the Nexus, lowering enemy health
 <br>
 <br>
 <br>
-<br>
 
 ---
 
