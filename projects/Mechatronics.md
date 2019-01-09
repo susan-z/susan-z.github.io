@@ -11,12 +11,14 @@ layout: page
 <p style="float: right; width: 65%; margin-right: 1%; margin-bottom: 0.5em;">
 <br>
 <br>
-The objective was to design and build an RC robot to compete in a MOBA-inspired tournament. My team of four developed a small, lightweight robot with differential drive, capable of weaving through the constructed maze-like arena.
-#### Additional characteristics included:
+The objective was to design and build an RC robot to compete in a MOBA-inspired tournament. My team of four developed a small, lightweight robot with differential drive, capable of weaving through the constructed maze-like arena.<br>
+<br>
+Additional characteristics included:
 * Communication through UDP connected controllers
 * Frequency-sensing light detection
 * Servo-controlled attack arms
-* LED visual cues for health and attack
+* LED visual cues for health and attack <br>
+<br>
 Left: Robot traversing the maze to reach the Nexus, lowering enemy health
 </p>
 

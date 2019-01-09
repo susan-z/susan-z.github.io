@@ -25,25 +25,19 @@ layout: page
 <br>
 <p>Please have a look around my website, and feel free to contact me via <a href="https://www.linkedin.com/in/susan-zhao-5a0211170/">LinkedIn</a> or by <a href="suzhao@seas.upenn.edu">email</a>. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects. Additionally, please see the <a href="https://susan-z.github.io/research/">Research</a> page, as I have completed several research projects throughout my undergraduate experience.</p>
 
-<h2>Skills</h2>
+Skills
+* CAD: Solidworks, Autodesk
+*	Modeling
+*	Matlab
+*	Java
+*	Python
+*	System design and integration
+*	Technical Writing
 
-<ul class="skill-list">
-	<li>CAD: Solidworks, Autodesk</li>
-	<li>Modeling</li>
-	<li>Matlab</li>
-	<li>Java</li>
-	<li>Python</li>
-	<li>System design and integration</li>
-	<li>Technical Writing</li>
-</ul>
-
-<h2>Experience: Projects</h2>
-
-<ul class="skill-list">
-	<li><a href="https://susan-z.github.io/projects/Mechatronics/">Mechatronics</a></li>
-	<li><a href="https://susan-z.github.io/projects/MEAM/">Mechanical Design and Analysis</a></li>
-	<li><a href="https://susan-z.github.io/projects/ESE/">Electrical Circuits and Systems</a></li>
-	<li><a href="https://susan-z.github.io/projects/Programming/">Programming</a></li>
-</ul>
+Experience: Projects
+* <a href="https://susan-z.github.io/projects/Mechatronics/">Mechatronics</a>
+* <a href="https://susan-z.github.io/projects/MEAM/">Mechanical Design and Analysis</a>
+* <a href="https://susan-z.github.io/projects/ESE/">Electrical Circuits and Systems</a>
+* <a href="https://susan-z.github.io/projects/Programming/">Programming</a>
 
 <p>To see more of my projects, please see the <a href="https://susan-z.github.io/projects/">Projects</a> page.</p>
