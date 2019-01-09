@@ -18,6 +18,11 @@ This course, MEAM520: Introduction to Robotics, culminated in a team project. We
   [![Lynx Arm Video](//github.com/susan-z/susan-z.github.io/blob/master/img/roboarmvideo.JPG?raw=true)](//youtu.be/2dLq227PmDc "Lynx Stacking 5 Blocks")
   <figcaption>Click above to access Youtube video: Lynx Stacking 5 Blocks</figcaption>
 
+  <center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2dLq227PmDc" frameborder="0" allowfullscreen></iframe>
+  <figcaption>Lynx Stacking 5 Blocks</figcaption>
+  </center>
+
 [Final Project Paper](https://github.com/susan-z/susan-z.github.io/tree/master/projects/RoboFinalPaper.pdf)
 
 ### Main Concepts Learned
