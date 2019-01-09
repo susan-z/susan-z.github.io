@@ -35,7 +35,9 @@ Left: Robot traversing the maze to reach the Nexus, lowering enemy health
 <br>
 <br>
 <br>
+
 ---
+
 ## Master Slave Teleoperation
 <img align="right" height="350" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/waldoGif.gif?raw=true"/>
 The focus of this project was to create a two degree of freedom input and output device. The input device utilized hall sensors for position sensing, paired with continuous feedback and PID control to position the motors in the output device into the correct position. This allows for remote manipulation with devices of different scales.

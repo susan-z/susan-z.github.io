@@ -72,7 +72,7 @@ The course teaches the principles of design and measurement systems including ba
 * **Wind Turbine**: Design, analyze and build a weight-optimized wind turbine to generate 5W of power
 * **Water Pump Characterization**: Design and build a water tower in a heads-up competition
 
-| ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/FEAbeam.JPG?raw=true) height="350px" | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/VAWT.JPG?raw=true" |
+|<img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/FEAbeam.JPG?raw=true" height="350px">| <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/VAWT.JPG?raw=true"> |
 |:--------------------:|:--------------------:|
 | Solidworks Stress Analysis | Wind Turbine Motor Characterization|
 
@@ -81,6 +81,6 @@ The course teaches the principles of design and measurement systems including ba
 * **Vibration of Cantilevered beam**: Calculate the trust profile of a model rocket solid-fuel engine over time
 * **Temperature and Flight Dynamics**: Model and design a hot air balloon to achieve target height parameters
 
-| ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/meammachine.png?raw=true) | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/heatengine1.JPG?raw=true" width="450px"> |
+| <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/meammachine.png?raw=true" height="450px"> | | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/heatengine1.JPG?raw=true"> |
 |:--------------------:|:--------------------:|
 | Final Component Design | Matlab Simulink for drag |
