@@ -19,18 +19,18 @@ This course, MEAM520: Introduction to Robotics, culminated in a team project. We
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2dLq227PmDc" frameborder="0" allowfullscreen></iframe>
 </center>
 <center>
-<figcaption>Lynx Stacking 5 Blocks</figcaption>
+Lynx Robot Arm Stacking 5 Blocks
 </center>
 
 [Final Project Paper](https://github.com/susan-z/susan-z.github.io/tree/master/projects/RoboFinalPaper.pdf)
 
-### Main Concepts Learned
-* Understand geometry and configuration of a multi-DOF manipulator
-* Implement trajectory planning algorithms
+### Experience
+* Geometry and configuration of a multi-DOF manipulator
+* Trajectory planning algorithms
 * Forward and Inverse kinematics of a manipulator arm
 * Standard equations for manipulator dynamics
 * Obstacle detection, C-space generation
-* Apply to a real-world robot manipulator
+* Applying all to a real-world robot manipulator
 
 <!--[![Lynx Arm Video](//github.com/susan-z/susan-z.github.io/blob/master/img/roboarmvideo.JPG?raw=true)](//youtu.be/2dLq227PmDc "Lynx Stacking 5 Blocks")
 <figcaption>Click above to access Youtube video: Lynx Stacking 5 Blocks</figcaption>-->
