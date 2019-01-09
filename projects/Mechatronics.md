@@ -4,6 +4,16 @@ layout: page
 ---
 # Mechatronics
 
+## Final Project
+designing and building remote controlled robots to play a MOBA-inspired game in 4v4 teams.
+
+The robot would be piloted through UDP connected controllers (also of our own design) and would fight using visual and audio cues, such as speakers and flashing lights.
+
+Robot and Nexus status, health, and attacks were measured and constantly updated through UDP protocol communication with a central score keeping computer.
+
+The first team to "destroy" the opposing team's Nexus would win the match.
+---
+## Waldo
 
 
 ### Experience
