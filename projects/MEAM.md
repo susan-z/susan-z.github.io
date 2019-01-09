@@ -62,5 +62,6 @@ Poisson’s ratio when testing two bars of the same stock but of different lengt
 The course teaches the principles of design and measurement systems including basic electromechanical systems. It follows MEAM 333 Heat Transfer, MEAM 354 Mechanics of Materials, MEAM 302 and MEAM 321 -including experiments in fluid mechanics, and vibration in the design of mechanical systems.
 
 #### MEAM 347 Experience:
+* 
 
 #### MEAM 348 Experience:

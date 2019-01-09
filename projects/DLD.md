@@ -19,7 +19,7 @@ Complete Project         |
 :-------------------------:|:-------------------------:
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/dld3.png?raw=true)  |  ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/dld4%20Cropped.png?raw=true)
 
-###Experience:
+### Experience:
 * Boolean algebra, flip-flops, counters, registers
 * Digital logic design
 * Design, prototyping, testing and demonstration of projects
