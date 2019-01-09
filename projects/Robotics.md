@@ -15,13 +15,12 @@ This course, MEAM520: Introduction to Robotics, culminated in a team project. We
 7. Update obstacles in C-space
 8. Repeat, starting with A* to reach next block
 
-  [![Lynx Arm Video](//github.com/susan-z/susan-z.github.io/blob/master/img/roboarmvideo.JPG?raw=true)](//youtu.be/2dLq227PmDc "Lynx Stacking 5 Blocks")
-  <figcaption>Click above to access Youtube video: Lynx Stacking 5 Blocks</figcaption>
-
-  <center>
+<center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2dLq227PmDc" frameborder="0" allowfullscreen></iframe>
-  <figcaption>Lynx Stacking 5 Blocks</figcaption>
-  </center>
+</center>
+<center>
+<figcaption>Lynx Stacking 5 Blocks</figcaption>
+</center>
 
 [Final Project Paper](https://github.com/susan-z/susan-z.github.io/tree/master/projects/RoboFinalPaper.pdf)
 
@@ -32,3 +31,6 @@ This course, MEAM520: Introduction to Robotics, culminated in a team project. We
 * Standard equations for manipulator dynamics
 * Obstacle detection, C-space generation
 * Apply to a real-world robot manipulator
+
+<!--[![Lynx Arm Video](//github.com/susan-z/susan-z.github.io/blob/master/img/roboarmvideo.JPG?raw=true)](//youtu.be/2dLq227PmDc "Lynx Stacking 5 Blocks")
+<figcaption>Click above to access Youtube video: Lynx Stacking 5 Blocks</figcaption>-->
