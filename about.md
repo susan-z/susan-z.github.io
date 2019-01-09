@@ -25,7 +25,7 @@ layout: page
 <br>
 <p>Please have a look around my website, and feel free to contact me via <a href="https://www.linkedin.com/in/susan-zhao-5a0211170/">LinkedIn</a> or by <a href="suzhao@seas.upenn.edu">email</a>. Listed below you will find a few of the classes and experiences that have impacted me the most, alongside relevant projects. Additionally, please see the <a href="https://susan-z.github.io/research/">Research</a> page, as I have completed several research projects throughout my undergraduate experience.</p>
 
-Skills
+### Skills
 * CAD: Solidworks, Autodesk
 *	Modeling
 *	Matlab
@@ -34,7 +34,7 @@ Skills
 *	System design and integration
 *	Technical Writing
 
-Experience: Projects
+### Experience: Projects
 * <a href="https://susan-z.github.io/projects/Mechatronics/">Mechatronics</a>
 * <a href="https://susan-z.github.io/projects/MEAM/">Mechanical Design and Analysis</a>
 * <a href="https://susan-z.github.io/projects/ESE/">Electrical Circuits and Systems</a>

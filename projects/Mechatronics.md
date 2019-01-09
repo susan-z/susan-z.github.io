@@ -13,15 +13,13 @@ layout: page
 <br>
 The objective was to design and build an RC robot to compete in a MOBA-inspired tournament. My team of four developed a small, lightweight robot with differential drive, capable of weaving through the constructed maze-like arena.<br>
 <br>
-Additional characteristics included:
-* Communication through UDP connected controllers
-* Frequency-sensing light detection
-* Servo-controlled attack arms
-* LED visual cues for health and attack <br>
+Additional characteristics include: Communication through UDP connected controllers, frequency-sensing light detection, servo-controlled attack arms, LED visual cues for health and attack <br>
 <br>
 Left: Robot traversing the maze to reach the Nexus, lowering enemy health
 </p>
 
+<br>
+<br>
 <br>
 <br>
 <br>
