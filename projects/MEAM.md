@@ -72,7 +72,7 @@ The course teaches the principles of design and measurement systems including ba
 * **Wind Turbine**: Design, analyze and build a weight-optimized wind turbine to generate 5W of power
 * **Water Pump Characterization**: Design and build a water tower in a heads-up competition
 
-|<img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/FEAbeam.JPG?raw=true" width="700px">| <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/VAWT.JPG?raw=true" width="350px"> |
+|<img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/FEAbeam.JPG?raw=true" width="650px">| <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/VAWT.JPG?raw=true" width="400px"> |
 |:--------------------:|:--------------------:|
 | Solidworks Stress Analysis | Wind Turbine Motor Characterization|
 
