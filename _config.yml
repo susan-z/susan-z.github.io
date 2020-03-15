@@ -1,6 +1,6 @@
 # main text of home
 name: Susan Zhao
-bio: Mechanical Engineer / Computer Scientist 
+bio: Mechanical Engineering | Computer Science
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -34,9 +34,9 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-linkedin: susan-zhao-5a0211170
+linkedin: susan-zhao1
 github: susan-z
-email: suzhao@seas.upenn.edu
+email: susanmzhao@gmail.com
 facebook: susan.zhao.okay
 # twitter: mytwitter
 # google: mygoogle
@@ -81,7 +81,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 research: true
 
 # do you want to show the "read time" of the posts?
