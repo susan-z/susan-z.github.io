@@ -4,7 +4,27 @@ layout: page
 ---
 # Mechatronics
 
-## Final Project
+## Senior Design Project
+This capstone design project was intended for teams to design and test complex mechanical systems that address a societal or consumer need. The following was my Mechanical Engineering and Applied Mechanics Senior Design project, FlipSide.
+
+### FlipSide: Pixelated Design Board
+
+![](https://github.com/susan-z/susan-z.github.io/blob/master/img/flipside_render.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/flipside_real.JPG?raw=true)
+:-----------:|:-----------:
+Render | Final Prototype
+
+FlipSide is an electromechanical design board tailored to those who desire an old-school, non-digital sign while maintaining the same level of web-based control and automation. The sign consists of a uniform array of pixels that can be individually altered. A carriage of five solenoids moves along a cartesian system, actuating relevant pixels to produce the desired words and message. Team FlipSide had a corporate sponsor, Oat Foundry, who specialize in split-flap displays. To get a little peek of where FlipSide is now, check out the video below. 
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/QbbJqA11Fu8" frameborder="0" allowfullscreen></iframe>
+</center>
+<center>
+Oat Foundry FlipSide Video
+</center>
+
+Team FlipSide was comprised of Edward Devlin, Shirley Dong, Michael Gigante, Charles Hussey, Madeline McGovern, and Susan Zhao and advised by Professor Mark Yim.
+
+## Design of Mechatronic Systems 
+### Final Project
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 29%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/mechatronicsGif.gif?raw=true" style="width: 100%"></p>
 
@@ -35,15 +55,14 @@ Left: Robot traversing the maze to reach the Nexus, lowering enemy health
 <br>
 <br>
 
----
-
-## Master Slave Teleoperation
+### Master Slave Teleoperation
 <img align="right" height="350" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/waldoGif.gif?raw=true"/>
 The focus of this project was to create a two degree of freedom input and output device. The input device utilized hall sensors for position sensing, paired with continuous feedback and PID control to position the motors in the output device into the correct position. This allows for remote manipulation with devices of different scales.
 
 Right: Controlling a 2 DOF firetruck design
 
-### Experience
+---
+## Experience
 * Prototyping: CAD, 3D printing and lasercutting
 * Actuators and sensors
 * Transmissions
