@@ -66,15 +66,17 @@ The focus of this project was to create a two degree of freedom input and output
 <br>
 Right: Controlling a 2 DOF firetruck design
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 ---
