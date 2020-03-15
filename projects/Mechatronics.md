@@ -79,6 +79,13 @@ Right: Controlling a 2 DOF firetruck design
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ---
 ## Experience
 * Prototyping, Design for Manufacturing: CAD, 3D printing and lasercutting
