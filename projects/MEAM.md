@@ -3,25 +3,27 @@ title: MEAM
 layout: page
 ---
 # Mechanical Design
-*For my most recent work, please see <a href="https://susan-z.github.io/projects/SeniorDesign/">Senior Design Project</a>*
-### MEAM 101: Introduction to Mechanical Design
-This hands-on, project-based course covers the fundamentals of the modern mechanical design process, from basic need-finding through computerized manufacturing. Topics include:
-* Product definition: need-finding, observation, sketching, brainstorming, and prototyping
-* Computer-aided design: part creation, assemblies, and animation using SolidWorks
-* Basic computer simulation and analysis
-* Rapid prototyping: laser cutter and 3-d fused-deposition modeling
-* General engineering design practices: materials, dimensioning, tolerances, etc.
+*All projects are listed in reverse-chronological order*
+### MEAM 347/348 Design Lab:
+The course teaches the principles of design and measurement systems including basic electromechanical systems. It follows MEAM 333 Heat Transfer, MEAM 354 Mechanics of Materials, MEAM 302 and MEAM 321 -including experiments in fluid mechanics, and vibration in the design of mechanical systems.
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/orXZEw0QpCo" frameborder="0" allowfullscreen></iframe>
-</center>
-<center>
-Animated Assembly of a CD Player
-</center>
+#### MEAM 347 Experience:
+* **FEA Beam Bending Analysis**: Stress and bending analysis on a spring-loaded baseball pitching arm
+* **Wind Turbine**: Design, analyze and build a weight-optimized wind turbine to generate 5W of power
+* **Water Pump Characterization**: Design and build a water tower in a heads-up competition
 
-|![](https://github.com/susan-z/susan-z.github.io/blob/master/img/playrender.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/tag.JPG?raw=true) |
-|:------------------------------:|:-------------:|
-| Render of PLAY project, Hungry Hungry Hippos-inspired soccer game | TAG project, to press-fit |
+|<img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/FEAbeam.JPG?raw=true" width="650px">| <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/VAWT.JPG?raw=true" width="400px"> |
+|:--------------------:|:--------------------:|
+| Solidworks Stress Analysis | Wind Turbine Motor Characterization|
+
+#### MEAM 348 Experience:
+* **Critical Loading**: Construct a machine with multiple parts and calculate critical load values, without having direct communication with other subteams
+* **Vibration of Cantilevered beam**: Calculate the trust profile of a model rocket solid-fuel engine over time
+* **Temperature and Flight Dynamics**: Model and design a hot air balloon to achieve target height parameters
+
+| <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/meammachine.png?raw=true" width="700px"> | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/drag.png?raw=true" width="350px"> |
+|:--------------------:|:--------------------:|
+| Final Component Design | Matlab Simulink for drag |
 
 ---
 ### MEAM 247/248: Design Lab
@@ -64,23 +66,23 @@ Poisson’s ratio when testing two bars of the same stock but of different lengt
 |:--------------------------------------------:|:--------------------:|
 | Mechanism | P-V relationship | -->
 
-### MEAM 347/348 Design Lab:
-The course teaches the principles of design and measurement systems including basic electromechanical systems. It follows MEAM 333 Heat Transfer, MEAM 354 Mechanics of Materials, MEAM 302 and MEAM 321 -including experiments in fluid mechanics, and vibration in the design of mechanical systems.
+---
+### MEAM 101: Introduction to Mechanical Design
+This hands-on, project-based course covers the fundamentals of the modern mechanical design process, from basic need-finding through computerized manufacturing. Topics include:
+* Product definition: need-finding, observation, sketching, brainstorming, and prototyping
+* Computer-aided design: part creation, assemblies, and animation using SolidWorks
+* Basic computer simulation and analysis
+* Rapid prototyping: laser cutter and 3-d fused-deposition modeling
+* General engineering design practices: materials, dimensioning, tolerances, etc.
 
-#### MEAM 347 Experience:
-* **FEA Beam Bending Analysis**: Stress and bending analysis on a spring-loaded baseball pitching arm
-* **Wind Turbine**: Design, analyze and build a weight-optimized wind turbine to generate 5W of power
-* **Water Pump Characterization**: Design and build a water tower in a heads-up competition
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/orXZEw0QpCo" frameborder="0" allowfullscreen></iframe>
+</center>
+<center>
+Animated Assembly of a CD Player
+</center>
 
-|<img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/FEAbeam.JPG?raw=true" width="650px">| <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/VAWT.JPG?raw=true" width="400px"> |
-|:--------------------:|:--------------------:|
-| Solidworks Stress Analysis | Wind Turbine Motor Characterization|
+|![](https://github.com/susan-z/susan-z.github.io/blob/master/img/playrender.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/tag.JPG?raw=true) |
+|:------------------------------:|:-------------:|
+| Render of PLAY project, Hungry Hungry Hippos-inspired soccer game | TAG project, to press-fit |
 
-#### MEAM 348 Experience:
-* **Critical Loading**: Construct a machine with multiple parts and calculate critical load values, without having direct communication with other subteams
-* **Vibration of Cantilevered beam**: Calculate the trust profile of a model rocket solid-fuel engine over time
-* **Temperature and Flight Dynamics**: Model and design a hot air balloon to achieve target height parameters
-
-| <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/meammachine.png?raw=true" width="700px"> | <img src ="https://github.com/susan-z/susan-z.github.io/blob/master/img/drag.png?raw=true" width="350px"> |
-|:--------------------:|:--------------------:|
-| Final Component Design | Matlab Simulink for drag |
