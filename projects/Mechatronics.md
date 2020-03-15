@@ -55,9 +55,9 @@ Left: Robot traversing the maze to reach the Nexus, lowering enemy health
 <br>
 <br>
 
-### Master Slave Teleoperation
 <img align="right" height="350" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/waldoGif.gif?raw=true"/>
 <p style="float: left; width: 65%; margin-left: 1%; margin-bottom: 0.5em;">
+### Master Slave Teleoperation
 <br>
 <br>
 <br>
@@ -68,6 +68,8 @@ Right: Controlling a 2 DOF firetruck design
 <br>
 <br>
 </p>
+<br>
+<br>
 <br>
 <br>
 <br>
