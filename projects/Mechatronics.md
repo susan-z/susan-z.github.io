@@ -67,10 +67,11 @@ Right: Controlling a 2 DOF firetruck design
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 </p>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 ---
