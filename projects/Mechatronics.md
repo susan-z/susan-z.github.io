@@ -62,14 +62,20 @@ Left: Robot traversing the maze to reach the Nexus, lowering enemy health
 <br>
 <br>
 The focus of this project was to create a two degree of freedom input and output device. The input device utilized hall sensors for position sensing, paired with continuous feedback and PID control to position the motors in the output device into the correct position. This allows for remote manipulation with devices of different scales.
-
+<br>
 Right: Controlling a 2 DOF firetruck design
+<br>
+<br>
+<br>
 </p>
+<br>
 <br>
 <br>
 ---
 ## Experience
-* Prototyping: CAD, 3D printing and lasercutting
+* Prototyping, Design for Manufacturing: CAD, 3D printing and lasercutting
+* Project planning, budgeting
+* Technical writing and presentations
 * Actuators and sensors
 * Transmissions
 * Electronics: circuits, filters, op amps, logic
