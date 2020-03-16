@@ -3,7 +3,9 @@ title: Robotics
 layout: page
 ---
 # Robotics
-This course, MEAM520: Introduction to Robotics, culminated in a team project. We chose to use a Lynx robot arm to perform actions of locating, picking up, and stacking small blocks. In doing so, we explored several functions: orienting the gripper and grasping the blocks, accounting for droop and weight of the block and Lynx arm itself, and continuously updating the planner to reflect the changing environment for ensured collision prevention. By developing a solution to this problem using Matlab, we gained a stronger understanding of how to finely tune a planner with both velocity, weight, and obstacle considerations.
+
+## Block Stacking Robot
+We chose to use a Lynx robot arm to perform actions of locating, picking up, and stacking small blocks. In doing so, we explored several functions: orienting the gripper and grasping the blocks, accounting for droop and weight of the block and Lynx arm itself, and continuously updating the planner to reflect the changing environment for ensured collision prevention. By developing a solution to this problem using Matlab, we gained a stronger understanding of how to finely tune a planner with both velocity, weight, and obstacle considerations.
 
 ### PseudoCode
 1. Load custom map
@@ -22,7 +24,7 @@ This course, MEAM520: Introduction to Robotics, culminated in a team project. We
 Lynx Robot Arm Stacking 5 Blocks
 </center>
 
-[Final Project Paper](https://github.com/susan-z/susan-z.github.io/tree/master/projects/RoboFinalPaper.pdf)
+[Project Paper](https://github.com/susan-z/susan-z.github.io/tree/master/projects/RoboFinalPaper.pdf)
 
 ### Experience
 * Geometry and configuration of a multi-DOF manipulator
@@ -32,5 +34,22 @@ Lynx Robot Arm Stacking 5 Blocks
 * Obstacle detection, C-space generation
 * Applying all to a real-world robot manipulator
 
-<!--[![Lynx Arm Video](//github.com/susan-z/susan-z.github.io/blob/master/img/roboarmvideo.JPG?raw=true)](//youtu.be/2dLq227PmDc "Lynx Stacking 5 Blocks")
-<figcaption>Click above to access Youtube video: Lynx Stacking 5 Blocks</figcaption>-->
+---
+## Smart Highway
+control the speed of a vehicle to track another vehicle from a
+distance that depends on speed. We also want to consider what happens when we place
+several such vehicles in a string, one behind the other.
+
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iZ2CZPi2Xqs" frameborder="0" allowfullscreen></iframe>
+</center>
+<center>
+Lead train with a small sinusoidal variation in speed, with 5 following.
+</center>
+
+[Project Paper](https://github.com/susan-z/susan-z.github.io/blob/master/projects/SmartHighway_suzhao.pdf)
+
+### Experience
+* 1
+* 2
+
