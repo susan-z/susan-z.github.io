@@ -4,8 +4,8 @@ layout: page
 ---
 
 # Electrical and Systems Engineering
-## ESE215
-ESE215: Electrical Circuits and Systems is a course beginning with basic electric circuit analysis techniques of linear circuits, then delving into 1st order and 2nd order circuits in both the time and frequency domains, frequency behavior of circuits and the use of transfer functions. Designing, building and experimenting with electrical and electronic circuits are performed in a hands-on weekly lab. 
+## Electrical Circuits and Systems
+This course (ESE215) began with basic electric circuit analysis techniques of linear circuits, then delved into 1st order and 2nd order circuits in both the time and frequency domains, frequency behavior of circuits and the use of transfer functions. Designing, building and experimenting with electrical and electronic circuits were performed in a hands-on weekly lab. 
 
 ### Final Pair Project
 The final project was an audio docking station. There are three major components: a bass and treble filter, an amplifier, and a power supply. 
@@ -22,8 +22,8 @@ This project required the initial design of the filter, amplifier, and power sup
 For complete documentation of this project: [Final Project](https://github.com/susan-z/susan-z.github.io/blob/master/projects/FinalProj_ElizatuSuzhao.pdf). Additional lab circuit drawings can be found on [Circuitlab](https://www.circuitlab.com/user/susan_z/)
 
 ---
-## ESE190
-ESE190: Silicon Garage is a hands-on lab course about open source hardware and software platforms.  It explores Aruino and Raspberry Pi platforms as well as using the programming language, Processing, to interface the microcontrollers to sensors. Mini-projects that preceded the final pair project concerned many electrical parts: LEDs, pushbuttons, photocells, transistors (MOSFET), bluetooth and wifi modules, and OpAmps for filtering signals. 
+## Silicon Garage
+This was a hands-on lab course about open source hardware and software platforms.  It explored Aruino and Raspberry Pi platforms as well as using the programming language, Processing, to interface the microcontrollers to sensors. Mini-projects that preceded the final pair project concerned many electrical parts: LEDs, pushbuttons, photocells, transistors (MOSFET), bluetooth and wifi modules, and OpAmps for filtering signals. 
 
 ### Final Pair Project
 
