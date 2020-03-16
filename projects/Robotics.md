@@ -36,9 +36,7 @@ Lynx Robot Arm Stacking 5 Blocks
 
 ---
 ## Smart Highway
-control the speed of a vehicle to track another vehicle from a
-distance that depends on speed. We also want to consider what happens when we place
-several such vehicles in a string, one behind the other.
+The design problem was to control the speed of a vehicle to track another vehicle from a distance that depends on speed. We wanted to string several of these vehicles, one behind the other. We first created a dynamic model using Simulink. Our final controller utilized PI control to maintain the desired distance away from the car in from of it. 
 
 <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iZ2CZPi2Xqs" frameborder="0" allowfullscreen></iframe>
@@ -50,6 +48,10 @@ Lead train with a small sinusoidal variation in speed, with 5 following.
 [Project Paper](https://github.com/susan-z/susan-z.github.io/blob/master/projects/SmartHighway_suzhao.pdf)
 
 ### Experience
-* 1
-* 2
+* PID Control
+* Bode plots and root locus to assess the single-car system performance
+* Simulink modeling
+* Nyquist plots to analyze stability
+* Matlab scripting
+* Constructing and analyzing filters
 
