@@ -8,7 +8,7 @@ bio: Mechanical Engineering | Computer Science
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: https://github.com/susan-z/susan-z.github.io/blob/master/img/sidefacinglol_small.jpg?raw=true
+picture: https://github.com/susan-z/susan-z.github.io/blob/master/img/headshot_2022_small.jpg?raw=true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -35,9 +35,9 @@ disqus:
 
 # if you don't have any of social below, comment the line
 linkedin: susan-zhao1
-github: susan-z
+# github: susan-z
 email: susanmzhao@gmail.com
-facebook: susan.zhao.okay
+# facebook: susan.zhao.okay
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
