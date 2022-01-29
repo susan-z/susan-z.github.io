@@ -11,7 +11,7 @@ category: project
 author: szhao
 externalLink: false
 ---
-Fundamentals of computer programming in Java, with emphasis on applications in science and engineering. Through taking this course, I learned about the broader field of computer science and algorithmic thinking, the fundamental approach that computer scientists take to solving problems.</p>
+Fundamentals of computer programming in Java, with emphasis on applications in science and engineering. Through taking this course, I learned about the broader field of computer science and algorithmic thinking, the fundamental approach that computer scientists take to solving problems.
 
 ### Individual Project
 (See additional projects listed below)
