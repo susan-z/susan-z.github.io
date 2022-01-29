@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-image: https://github.com/susan-z/susan-z.github.io/blob/master/img/susan_LA_small.jpeg?raw=true
+image: https://github.com/susan-z/susan-z.github.io/blob/master/img/susan_LA_smaller.jpeg?raw=true
 ---
 
 # About
