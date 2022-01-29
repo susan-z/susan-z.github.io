@@ -1,4 +1,16 @@
-# Computer Programming
+---
+title: ":computer: Programming"
+layout: post
+tag: random
+image: https://github.com/susan-z/susan-z.github.io/blob/master/img/hello_world_cropper.jpg?raw=true
+headerImage: true
+projects: true
+hidden: true
+description: "Programming Projects"
+category: project
+author: szhao
+externalLink: false
+---
 Fundamentals of computer programming in Java, with emphasis on applications in science and engineering. Through taking this course, I learned about the broader field of computer science and algorithmic thinking, the fundamental approach that computer scientists take to solving problems.</p>
 
 ### Individual Project

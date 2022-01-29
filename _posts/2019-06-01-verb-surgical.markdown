@@ -1,8 +1,16 @@
 ---
-title: Verb Surgical
-layout: page
+title: ":briefcase: Verb Surgical"
+layout: post
+tag: random
+image: https://github.com/susan-z/susan-z.github.io/blob/master/img/verb.png?raw=true
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Verb Surgical Career"
+category: project
+author: szhao
+externalLink: false
 ---
-# Verb Surgical
 
 During my time at Verb, I have had significant experience with multiple stages of a product development cycle. This spans projects at the production level to developing tests for medical device validation and verification. My position as a systems integration engineer exposed me to complex subsystems where I greatly improved on my troubleshooting, debugging and root-cause analysis skills. As much of the product information is not public, the summaries of my projects will honor that confidentiality.
 

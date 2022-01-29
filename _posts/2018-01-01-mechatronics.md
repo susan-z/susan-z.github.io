@@ -1,8 +1,16 @@
 ---
-title: Mechatronics
-layout: page
+title: ":gear: Mechatronics"
+layout: post
+tag: random
+image: https://github.com/susan-z/susan-z.github.io/blob/master/img/mechatronics.jpg?raw=true
+headerImage: true
+projects: true
+hidden: true
+description: "Mechatronics"
+category: project
+author: szhao
+externalLink: false
 ---
-# Mechatronics
 
 ## Senior Design Project
 This capstone design project was intended for teams to design and test complex mechanical systems that address a societal or consumer need. The following was my Mechanical Engineering and Applied Mechanics Senior Design project, FlipSide.
@@ -98,3 +106,4 @@ Right: Controlling a 2 DOF firetruck design
 * Interfacing mechanical, circuit and software elements
 * Microprocessors
 * Basic control theory
+
