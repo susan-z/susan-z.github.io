@@ -31,8 +31,6 @@ Mat Electronics Box closed view | Top view, opened
 :-----------:|:-----------:|:-----------:|:-----------:
 Raw Data (performed in Matlab) | Real World Frame  | Fitted Ellipse | Comparison in Age Group
 
-See complete [documentation](github.com) and [Matlab code](github.com)
-
 ---
 ## BAXTER
 BAXTER is a robot created by Rethink Robotics to be a safe, flexible, affordable alternative to fixed automation. In the field of mobile therapy assistants, Baxter is a perfect candidate to act as a therapist to stroke survivors. The study involving the Baxter robot involved three stages:  learning, demonstration, and teaching.  In the learning phase, Baxter was trained how to mimic a real-life therapist;  this was done by using Microsoft Kinect, which maps the kinematic configuration of the human to Baxter.  After the robot demonstrates what it has learned from the therapist, the robot ostensibly would be capable of giving the desired therapy to the patient. 
