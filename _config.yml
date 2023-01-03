@@ -14,9 +14,9 @@ picture: https://github.com/susan-z/susan-z.github.io/blob/master/img/headshot_2
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://susan-z.github.io/resume/
+resume-url: https://susan-zhao.com/resume/
 
-url: https://susan-z.github.io
+url: https://susan-zhao.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/

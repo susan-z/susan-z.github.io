@@ -28,17 +28,20 @@ C++ programming with robotics focus. Python PyBullet package for simulation.
 * Shared pointers
 * Multithreading, mutex
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/pybullet.png?raw=true">
-        <figcaption class="caption">PyBullet Simulation</figcaption>
-    </div>
+<!-- ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/pybullet.png?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/qp.png?raw=true)
+:-------------------------:|:-------------------------:
+ PyBullet Simulation | QP Optimization for control of a modified Dubin's car -->
 
-    <div class="toright">
-        <img class="image" src="https://github.com/susan-z/susan-z.github.io/blob/master/img/qp.png?raw=true">
-        <figcaption class="caption">QP Optimization for control of a modified Dubin's car</figcaption>
-    </div>
-</div>
+ <p style="float: left; font-size: 9pt; text-align: center; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
+ <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/pybullet.png?raw=true" style="width: 90%"></p>
+ 
+ <p style="float: right; font-size: 9pt; text-align: center; width: 49%; margin-right: 1%; margin-bottom: 0.5em;"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/qp.png?raw=true" style="width: 60%">
+ <figcaption>Left: PyBullet Simulation</figcaption>
+ <figcaption>Right: QP Optimization for control of a modified Dubin's car</figcaption>
+ </p>
+<br>
+<br>
+
 ---
 # Java
 Fundamentals of computer programming in Java, with emphasis on applications in science and engineering
