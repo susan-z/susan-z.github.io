@@ -63,7 +63,7 @@ Left: Robot traversing the maze to reach the Nexus, lowering enemy health
 <br>
 <br>
 
-### Master Slave Teleoperation
+### Primary Secondary Teleoperation
 <p style="float: right; font-size: 9pt; text-align: center; width: 29%; margin-left: 1%; margin-bottom: 0.5em;"><img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/waldoGif.gif?raw=true" style="width: 100%"></p>
 
 <p style="float: left; width: 65%; margin-left: 1%; margin-bottom: 0.5em;">

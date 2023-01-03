@@ -4,6 +4,15 @@ layout: page
 ---
 # Research
 *All projects are listed in reverse-chronological order*
+## Locomotor Control Systems Laboratory
+<p align="center">
+  <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/exo.png?raw=true"/>
+  <figcaption>https://www.mlive.com/galleries/PS2NKIMGJ5CJ7EASDUATJSN75I/</figcaption>
+</p>
+I am currently a member of the [Locomotor Control Systems Laboratory](https://web.eecs.umich.edu/locolab/index.html), where my focus lies in powered exoskeletons and their potential in aiding people with disabilities. Taking persons who have survived a stroke as a specific subset, this population often suffers from partial paralysis, or neurological impairments that result in diminished mobility and abnormal gait. My research study will utilize a unilateral hip and knee powered exoskeleton (or an individual joint) with a passive orthosis for the ankle, and a passivity-based, energy-shaping controller to assess the feasibility of the proposed orthoses for improving performance outcomes in chronic stroke patients during activities of daily living. Metrics will address acute changes to gait during the patient sessions. 
+
+---
+
 ## Physical and NeuroDevelopment Assessment (PANDA) Gym
 <p align="center">
   <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/LSAMP.jpg?raw=true"/>
@@ -20,7 +29,7 @@ Completed Objectives:
 * Identify relations of COP movement and Approximate Entropy to infant development
 * Design and manufacture a robust casing and assembly for mat electronics
 * Evaluate and analyze data using Matlab
-* Create visualizations to represent data, a [poster](https://github.com/susan-z/susan-z.github.io/blob/master/PANDAGym_LSAMP_SusanZhao.pdf) and [presentation](https://github.com/susan-z/susan-z.github.io/blob/master/projects/PANDA%20Gym_v3novids.pptx) on discoveries
+* Create visualizations to represent data, a [poster](https://github.com/susan-z/susan-z.github.io/blob/master/projects/PANDAGym_LSAMP_SusanZhao.pdf) and [presentation](https://github.com/susan-z/susan-z.github.io/blob/master/projects/PANDA%20Gym_v3novids.pptx) on discoveries
 <div class="breaker"></div>
 
 ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/image5.JPG?raw=true) | ![](https://github.com/susan-z/susan-z.github.io/blob/master/img/image7%20Cropped.jpg?raw=true)
