@@ -6,7 +6,7 @@ layout: page
 *All projects are listed in reverse-chronological order*
 ## Locomotor Control Systems Laboratory
 <p align="center">
-  <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/exo.png?raw=true"/>
+  <img src="https://github.com/susan-z/susan-z.github.io/blob/master/img/exo.png?raw=true" style="width:400px"/>
   <figcaption>https://www.mlive.com/galleries/PS2NKIMGJ5CJ7EASDUATJSN75I/</figcaption>
 </p>
 I am currently a member of the [Locomotor Control Systems Laboratory](https://web.eecs.umich.edu/locolab/index.html), where my focus lies in powered exoskeletons and their potential in aiding people with disabilities. Taking persons who have survived a stroke as a specific subset, this population often suffers from partial paralysis, or neurological impairments that result in diminished mobility and abnormal gait. My research study will utilize a unilateral hip and knee powered exoskeleton (or an individual joint) with a passive orthosis for the ankle, and a passivity-based, energy-shaping controller to assess the feasibility of the proposed orthoses for improving performance outcomes in chronic stroke patients during activities of daily living. Metrics will address acute changes to gait during the patient sessions. 
