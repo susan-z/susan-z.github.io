@@ -5,9 +5,16 @@ image: https://github.com/susan-z/susan-z.github.io/blob/master/img/susan_LA.jpe
 ---
 
 # About
-<img src="{{ page.image }}" style="width:200px;" alt="{{ page.title }}">
 
-<p> Hello! I am currently pursuing a Robotics Master's degree at the University of Michigan. I graduated from the University of Pennsylvania where I majored in Mechanical Engineering with a minor in Computer Science, then spent a few years in California working in industry, mainly in the robotic-assisted surgery field. I have always been drawn to multidisciplinary projects, especially those in the fields of robotics and mechatronics. My decision to return to school is centered upon building a solid foundation in software and focusing on applying learnings to robotics projects. Please have a look around my website, and feel free to contact me by email: susanmz(at)umich(dot)edu or susanmzhao(at)gmail(dot)com.</p>
+<img align="center" src="{{ page.image }}"  alt="{{ page.title }}" style="width:150px"/> 
+Hi I am Susan,
+
+I am currently pursuing a Robotics Master's degree at the University of Michigan. Prior to this, I worked in industry, in the robotic-assisted surgery and autonomous vehicle field. I have a strong background programming in <mark>Python</mark> and <mark>C/C++</mark> with object oriented design experience, and extensive use of <mark>MATLAB/Simulink</mark> for modeling and simulation and <mark>ROS</mark>. My previous work includes integrating mechanical and electrical hardware and software, particularly in an embedded context with microcomputers and microprocessors. I am highly adept using <mark>CAD/SolidWorks</mark>, <mark>Git</mark>, <mark>JIRA/Bitbucket</mark>, and <mark>Agile</mark>.
+
+Contact: susanmz(at)umich(dot)edu or susanmzhao(at)gmail(dot)com.
+
+<!-- 
+ Hello! 
 
 <h2>Technical Skills</h2>
 <h3>Languages</h3>
@@ -44,4 +51,4 @@ image: https://github.com/susan-z/susan-z.github.io/blob/master/img/susan_LA.jpe
 	<li>Git</li>
 	<li>JIRA, Bitbucket</li>
 	<li>Agile</li>
-</ul>
+</ul> -->
