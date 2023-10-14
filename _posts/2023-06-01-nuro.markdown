@@ -2,7 +2,7 @@
 title: ":briefcase: Nuro"
 layout: post
 tag: random
-image: https://github.com/susan-z/susan-z.github.io/blob/master/img/nuro-logo.png?raw=true
+image: https://github.com/susan-z/susan-z.github.io/blob/master/img/nuro_logo.png?raw=true
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -14,27 +14,27 @@ externalLink: false
 
 From May 2023 to August 2023, I was a Systems Engineering Intern at Nuro. 
 
-## Selected Projects
-### HIL Automated Testing Framework
-My intern project scope was to evaluate the status of Hardware-in-loop testing (HIL) and available resourcs, to determine the best solution towards expanding test coverage and capabilities. The impact of this work was to make tests repeatable and highly automated, which greatly accelerates product development while also catching regressions, and saving time and costs. Initially, I was tasked with implementing real-time fault detection test cases using National Instruments' TestStand environment. My investigation into the pros and cons of the desired automated test framework resulted in a unified Python test platform supporting use cases by the Embedded, Controls and Systems team. 
+# Selected Projects
+## HIL Automated Testing Framework
+My intern project scope was to evaluate the status of Hardware-in-loop testing (HIL) and available resourcs, to determine the best solution towards expanding test coverage and capabilities. The impact of this work was to make tests repeatable and highly automated, which greatly accelerates product development while also catching regressions, and saving time and costs. My investigation resulted in a unified Python test platform supporting use cases by the Embedded, Controls and Systems team. 
 * Expanded testing capabilities to include real-time measurement and ethernet socket communication
 * Developed Python framework extensible for all HIL setups, with debug options and logging, which reduced ramp up time for developing scripts, improved change management, and enabled wider collaboration
 * Stabilized existing scripts and integrated real-time testing
 * Improved verification/validation test procedures in Jama
 
-Skills and Learnings: 
+### Skills and Learnings: 
 * Python, C, LabVIEW, .NET
 * CAN, ethernet communication
 * Control of steering and brake units, and associated Electronic Control Units (ECUs)
 * NI ecosystem of VeriStand, TestStand
 * Functional requirements for chassis units
 
-### Dependent Failure Analysis
+## Dependent Failure Analysis
 A mini-project I took on was to begin a dependent failure analysis between the autonomy computer hardware and the drive system, with the specific scope being Power. The eventual impact of this work was to allow more vehicle faults to be handled in autonomy.
 * Identified where a single point of failure on the power subsystems had effects on both the vehicle drive system and autonomy
 * Determined existing HW/SW safety mechanisms and also gaps in fault handling
 
-Skills and Learnings: 
+### Skills and Learnings: 
 * ISO 26262
 * Fault Tree Analysis (FTA), Failure Mode and Effects Analysis (FMEA)
 * Cascading failures, common cause failures
