@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="social-links">
     {% if site.facebook %}
         <a class="link" data-title="facebook.com/{{ site.facebook }}" href="http://facebook.com/{{ site.facebook }}" target="_blank">
@@ -31,7 +32,8 @@
 
     {% if site.linkedin %}
         <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
-            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
+            <i class="fa fa-linkedin"></i>
+            <!-- <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg> -->
         </a>
     {% endif %}
 
@@ -55,7 +57,8 @@
 
     {% if site.github %}
         <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
-            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
+            <i class="fa fa-github"></i>
+            <!-- <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg> -->
         </a>
     {% endif %}
     
@@ -97,7 +100,8 @@
 
     {% if site.email %}
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
+            <i class="fa fa-envelope"></i>
+            <!-- <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg> -->
         </a>
     {% endif %}
 </div>
